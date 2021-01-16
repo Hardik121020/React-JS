@@ -102,20 +102,26 @@
   
 .card:hover .card-img-top {
     opacity: 0;
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
   }
   
-.card:hover .middle {
+.card:hover .middle  {
     opacity: 1;
   }
  
 /*over image text property */
 .text {
     color: rgb(0, 0, 0);
-    font-size: 10px;
+    font-size: 12px;
   }
  
+.text_1
+{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    font-weight: bolder;
+}
 
  /* To take tab center position */
 .MuiTab-root {
