@@ -15,6 +15,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center ">Course Name</p>
@@ -28,6 +29,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center">Course Name</p>
@@ -39,6 +41,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center">Course Name</p>
@@ -51,6 +54,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center">Course Name</p>
@@ -63,6 +67,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center">Course Name</p>
@@ -75,6 +80,7 @@ const Arts = () => {
               <img src="https://source.unsplash.com/1600x900/?nature,water" className="card-img-top" alt="..." />
               <div className="middle">
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
+                <div className="text_1">Price: Rs.000</div>
               </div>
               <div className="footer">
                 <p className="card-text text-center">Course Name</p>
