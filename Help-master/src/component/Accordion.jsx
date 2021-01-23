@@ -1,5 +1,6 @@
 import React from 'react';
-import './Accordion.css'
+import './Accordion.css';
+
 
 const Accordion = ({ title , active , setActive , content}) => {
     return(
@@ -15,9 +16,10 @@ const Accordion = ({ title , active , setActive , content}) => {
 
             <div className={(active === title ? "show" : "") + " accordionContent"}>
                 <div className="container">
-                    <p>
-                    {content}
+                    <p className='auto-scrollbar'>
+                        {content}
                     </p>
+                
                 </div>
             </div>
             
