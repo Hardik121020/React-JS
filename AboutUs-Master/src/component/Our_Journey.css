@@ -1,0 +1,35 @@
+.fh5co_news_img > img 
+{
+    margin-top: 10px;
+	height: 100%;
+    width: 100%;
+    margin-left: 15px;
+}
+
+.fh5co_magna {
+	font-size: 15px;
+	color: #222!important;
+    font-weight: 800;
+}
+
+.fh5co_mini_time {
+	font-size: 14px;
+	color: #222;
+	display: inline-block;
+}
+
+.fh5co_consectetur {
+	font-size: 14px;
+	color: #777;
+}
+
+.fh5co_gaming_topikk {
+	margin: 0!important;
+	padding-left: 12px;
+}
+
+.fh5co_gaming_topikk > li {
+    font-size: 14px;
+	color: #777;
+	padding: 5px 0;
+}
