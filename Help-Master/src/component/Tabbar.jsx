@@ -72,7 +72,7 @@ const handleChangeIndex = (index) => {
       <TabPanel value={newValue} index={1}> <LEARNER /></TabPanel>
       <TabPanel value={newValue} index={2}> <EDUCATOR /></TabPanel>
       <TabPanel value={newValue} index={3}> <INSTITUTE /></TabPanel>
-      <TabPanel value={newValue} index={3}> <TOOLS /></TabPanel>
+      <TabPanel value={newValue} index={4}> <TOOLS /></TabPanel>
       </SwipeableViews>
     
 
