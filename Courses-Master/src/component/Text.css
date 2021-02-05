@@ -38,6 +38,7 @@
 .text2{
     font-weight: 350;
     padding-top: 48px;
+    text-align: left;
 }
 #text1{
     font-weight: 650;;
@@ -125,4 +126,14 @@
  /* To take tab center position */
 .MuiTab-root {
     padding: 6px 45px !important ;
+}
+
+.footer
+{
+    text-align: center;
+    
+}
+a
+{
+    color: #000000;
 }
