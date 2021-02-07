@@ -17,7 +17,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center ">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -30,7 +30,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
           </div>
@@ -41,7 +41,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -53,7 +53,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -77,7 +77,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -89,7 +89,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
@@ -101,7 +101,7 @@ const Arts = () => {
                 <div className="text">A course description is a short, pithy statement which informs a student about the subject matter, approach, breadth, and applicability of the course focuses on content... we are looking for a list of topics about 80 words maximum.</div>
               </div>
               <div className="footer">
-                <p className="card-text text-center">Course Name <spam className="text_1" > (Price: Rs.000)</spam></p>
+                <a className="card-text text-center " href="#" >Course Name <spam className="text_1" > (Price: Rs.000)</spam></a>
               </div>
             </div>
 
